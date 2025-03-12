@@ -1,0 +1,274 @@
+{
+  "artworks": [
+    {
+      "name": "Guernica",
+      "extensions": ["1937"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Guernica+(Picasso)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLFMjAxzTLWUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYhdxLU4vyMpMTFTQCgGRxcb4mAC4Q9W5QAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAD",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstwGXbSA9Fxfl601xrf76CQVHYnpmAu5OUMwGSgALL87wg9HE"
+    },
+    {
+      "name": "The Old Guitarist",
+      "extensions": ["1904"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Old+Guitarist&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLEsTM0KC7WUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYBUMyUhX8c1IU3EszSxKLgDIA9X8Wz08AAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAF",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8z6q-0Z3e2iwfVKF8hk-ln1SEjhWyBLYTE5iDXk3ZpmneG0D_"
+    },
+    {
+      "name": "Girl before a Mirror",
+      "extensions": ["1932"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Girl+before+a+Mirror&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMCwurCrK1lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWEXcM4tyFJJS0_KLUhUSFXwzi4ryiwDxlblBUwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAH",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwVTQy_X2osffv3dXxxf_CrHZQBnT_Qm0DEHrHNTgoVo7z4KPn"
+    },
+    {
+      "name": "Les Demoiselles d’Avignon",
+      "extensions": ["1907"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Les+Demoiselles+d%E2%80%99Avignon&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLFMq7JMcrSUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYpX1SixVcUnPzM4tTc3KA7JRHDTMdyzLT8_LzAMn1z6ZZAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAJ",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkMWuz31hIU_4X9okeqaXFLFLuGdecGi6Yo5NZPdfL4q6z6hPt"
+    },
+    {
+      "name": "Dove of Peace",
+      "extensions": ["1949"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Dove+(Picasso)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzTMybEwiTezKNFSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9i5XPJL0tV0AjITE4sLs7XBACbteK5UAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAL",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJtIhDtRroGh90Hb6IMsveC6ErkAYFS4_3ihJ6apWrPTtfzw4a"
+    },
+    {
+      "name": "Le Rêve",
+      "extensions": ["1932"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Le+R%C3%AAve+(Picasso)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMzEzNTMy1lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWIV8UhWCDq8qS1XQCMhMTiwuztcEAPuh_H1RAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDIrTVvK9sRZr9u-LiB5jFRCuaQWPfpcdKqdkBUViJIrRp1ta"
+    },
+    {
+      "name": "Portrait of Dora Maar",
+      "extensions": ["1937"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Portrait+of+Dora+Maar&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyKqw0zzDQUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYhUNyC8qKUrMLFHIT1NwyS9KVPBNTCwCANRroJRVAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAP",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThbFVLCW1Jdprc3AwE4F1WRcsCiD0rj2E4O7DgtqSMf3ppHcu3"
+    },
+    {
+      "name": "Don Quixote",
+      "extensions": ["1955"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Don+Quixote+(Picasso)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGSkipKLC21lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWEVd8vMUAkszK_JLUhU0AjKTE4uL8zUB0LmeTVQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAR",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxnZZIlUSmERgkSHeoj9GiKp1H9bmTe_ggYHcA_ZZqcBFlC6gW"
+    },
+    {
+      "name": "The Kiss",
+      "extensions": ["1925"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Kiss&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyTCkrKSnQUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuUIyUhV8M4sLgYANBx8SkgAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAT",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvZVQdGHKBGKbpi9-BXvySTahVyoFRT3NiGMacxUgQ_qgSFvoJ"
+    },
+    {
+      "name": "Bull's Head",
+      "extensions": ["1942"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Bull%27s+Head&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArHykixKcgq1lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWLmdSnNy1IsVPFITUwCwB7t6SgAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAV",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyeScUWwAGcHyj0wfWuCvGgkrZc_OodFf6KN9_E7N8MjfYu-HE"
+    },
+    {
+      "name": "Still life with the caned chair",
+      "extensions": ["1912"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Still+life+with+the+caned+chair&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyNo8vjrfUUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYpUPLsnMyVHIyUxLVSjPLMlQKMlIVUhOzEtNUUjOSMwsAgADu_HYXwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAX",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9C9dkn1JbOAce_NRr-IbH0H_ttSywLANWPqBDbtD4Sm8G9TyG"
+    },
+    {
+      "name": "Girl on the ball",
+      "extensions": ["1905"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Girl+on+the+ball&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyNqssMs7TUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYhVwzyzKUcjPUyjJSFVISszJAQAycOWXUAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAZ",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDXVgeS4hh8LBzoSZMr8A73MgwVYfvxP6x1sTIDRsWGCq0qBmj"
+    },
+    {
+      "name": "Self-Portrait",
+      "extensions": ["1901"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Self-Portrait&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyLC5KMsrVUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuUNTs1J0w3ILyopSswsAQCx1TH2TQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAb",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJaDd_xXpSpHrIJ9UJlE22PeNkWwE37x-v2WDySh8PwUyMZu1o"
+    },
+    {
+      "name": "Child with a Dove",
+      "extensions": ["1901"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Child+with+a+Dove&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArFKTI3ic4u0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWAWdMzJzUhTKM0syFBIVXPLLUgEXsnGTUAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAd",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-wR2ZNWF-wur0HEJsHtbW1dX9kWSdyZNoABBOm0KOapIRIZoF"
+    },
+    {
+      "name": "Science and Charity",
+      "extensions": ["1897"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Science+and+Charity&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBrEMjSxzsouLtJSyk630yzKLSxNz4hOLSpCYmcUlVuX5RdnFi1iFg5MzU_OSUxUS81IUnDMSizJLKgEnplW7UwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAf",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwwDiSjslsExXvEUj9KRJDt4qgSTzlQOpzSkJlV5uYaDTPISch"
+    },
+    {
+      "name": "Garçon à la pipe",
+      "extensions": ["1905"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Gar%C3%A7on+%C3%A0+la+pipe&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLGMqrJM87SUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYhdwTiw4vz89TOLxAISdRoSCzIBUA_dN0QlAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAh",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjs_E-TtzMRXJBD5ykSm-wPeXVRHeNUklj3fdTZi7o9H1PqEEk"
+    },
+    {
+      "name": "Two Girls Reading",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Two+Girls+Reading&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzTMNkrKMIwvz9JSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9iFQwpz1dwzyzKKVYISk1MycxLBwCGtZyEUwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAj",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMyFoUvxK5f0YMUT9_tw9k27rTBxs-ATf_UHyQvi-wGgMhiAh3"
+    },
+    {
+      "name": "The Tragedy",
+      "extensions": ["1903"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Tragedy+(Picasso)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyyCjJTivRUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYhUNyUhVCClKTE9NqVTQCMhMTiwuztcEACIAcqhVAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAl",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRd-pzKzVoO_dluN6gBtdZkMLqxVIt7aLAIkYKS-C_4l38UB7W"
+    },
+    {
+      "name": "First Communion",
+      "extensions": ["1896"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=First+Communion&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMNq7MLS8uqtJSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9i5XfLLCouUXDOz80tzcvMzwMAmyIPf1EAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAn",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIvN4f5GodeJQG8NitctoEZ3AUxyHrR3HNrdMfskxKakErHCG7"
+    },
+    {
+      "name": "The Three Dancers",
+      "extensions": ["1925"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Three+Dancers&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLHSjcsyyrWUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYBUMyUhVCMopSUxVcEvOSU4uKATPGHuxPAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAp",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSJ5CKSr2VkgtsGZQ-SdMcg_YIy_dShuYb-G8WKvm-hGEW5Pdm"
+    },
+    {
+      "name": "Ma Jolie",
+      "extensions": ["1912"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Ma+Jolie+(Picasso,+New+York)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArFMzNNyksq0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWGV8ExW88nMyUxU0AjKTE4uL83UU_FLLFSKB0poAsacAnVsAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAr",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoD0dT6mQwr6rySogsSANW3QRLa9sV5i_CjEFR8pM7BLrOxsvo"
+    },
+    {
+      "name": "Yellow picador",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Yellow+picador&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMMksvSCrPNdFSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9i5YtMzcnJL1coyExOTMkvAgCRZ42eUAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAt",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo4Ksi8JwlmWtYIK2UU9QZKG9e75OeHxekMbH8-QHIsHUf9c4Y"
+    },
+    {
+      "name": "Woman with flower",
+      "extensions": ["1932"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Woman+with+flower&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMNi5JK88oKdBSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9iFQzPz03MUyjPLMlQSMvJL08tAgB2tP9PUwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAv",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0S3M6GaUBM2IO4bvfM4tmnbPzwAMrvFE14FaU1H7OxEVQmk5e"
+    },
+    {
+      "name": "Sylvette",
+      "extensions": ["1954"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Sylvette&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiBLHMKw2NM7SUspOt9Msyi0sTc-ITi0qQmJnFJVbl-UXZxYtYOYIrc8pSS0pSARyYpQVGAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAx",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr0p3Q32H50eHesLH5lQG-FFvdYYdff0a_D5_5SnS4hvYs4Qrb"
+    },
+    {
+      "name": "Family of Saltimbanques",
+      "extensions": ["1905"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Family+of+Saltimbanques&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArEyjPOK88q0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWMXdEnMzcyoV8tMUghNzSjJzkxLzCktTiwHTTWhaVgAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhAz",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAG6FYuThZlmqrccyubJJ6xXcJC7IwL1AxUeVLUP8PL4BnloBE"
+    },
+    {
+      "name": "Weeping Woman with Handkerchief",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Weeping+Woman+with+Handkerchief&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMKi_MS0u3LNdSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9ilQ9PTS3IzEtXCM_PTcxTKM8syVDwSMxLyU4tSs7ITE0DAMuwbdVhAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA1",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCfxxad3tarJeywtUZD9S-va4lwLJ7e3hvXl04gC7UrmMumXpG"
+    },
+    {
+      "name": "Femme à la montre",
+      "extensions": ["1932"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Femme+%C3%A0+la+montre&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzQsyzIxKSjLztVSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9iFXJLzc1NVTi8QCEnUSE3P6-kKBUA3ba-lFQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA3",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCmXWwM6SRjM0T9HOl0ABYVw7XjQTNNcQdUPTLdnzx4Iz5HN3g"
+    },
+    {
+      "name": "Seated Woman",
+      "extensions": ["1927"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Seated+Woman&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMC4sMk9O1lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWHmCUxNLUlMUwvNzE_MAKrNmGUsAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA5",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkIAZtGZWhDE6uM0tNN2omEfBmHnT7uVhKGuJJWy60L7g2pn3p"
+    },
+    {
+      "name": "The Actor",
+      "extensions": ["1905"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Actor+(painting)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGSzLKyjHK1lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWEVCMlIVHJNL8osUNAoSM_NKMvPSNQEewTrZUwAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA7",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeHfUr9Ea7ZkxeNe4uEnv-YjVZGa67Ug7MXQh6bKJDBRik1ilH"
+    },
+    {
+      "name": "Seated Harlequin",
+      "extensions": ["1901"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Seated+Harlequin&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyyEpLMazSUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYhUITk0sSU1R8EgsykktLM3MAwCq9WOyUAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjapy9KLJo2U7k8ChjEmEtTkGuu3M8vWpuOeSDi7DSemDtmxKP"
+    },
+    {
+      "name": "Le petit picador jaune",
+      "extensions": ["1889"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Le+petit+picador+jaune&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArHSsyurLM21lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWMV8UhUKUksySxQKMpMTU_KLFLISS_NSASgfhGNVAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhA_",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTasF87LC2Jno-UFZiMHxSRM1vatwImKhcnDIQE4QKmcQPYlAMv"
+    },
+    {
+      "name": "Girl with mandolin",
+      "extensions": ["1910"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Girl+with+mandolin&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMC4uMMoq0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWIXcM4tyFMozSzIUchPzUvJzMvMANurbQFEAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBB",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdCUod1LjaB-uYB5pIzN2ZORFZLtpKAejbMg1Ld9Z0fLsPlCd"
+    },
+    {
+      "name": "Woman Ironing",
+      "extensions": ["1904"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Woman+Ironing&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMqkgpyS7PNdRSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9i5Q3Pz03MU_Asys_LzEsHAIIWselPAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBD",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGn3xxVEeKrl4jxABgYod4eOq6ZIwePogsnaFfy0wfFLBUuUh1"
+    },
+    {
+      "name": "Celestina",
+      "extensions": ["1904"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=la+celestina+picasso&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMMkvPtSwzMNdSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9iFclJVEhOzUktLsnMS1QoyExOLC7OBwAyUdfPVgAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBF",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIY7Jz0X5ApNwuFxCQZ7t5zxHzJU41Yl5WvlnbpA0Pw-zv4rL"
+    },
+    {
+      "name": "The Charnel House",
+      "extensions": ["1945"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+Charnel+House&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMCwsrks20lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWAVDMlIVnDMSi_JScxQ88kuLUwGhRqLAUAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBH",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUfX9w7mrJUD169hIqwDleu1frHvKlmb_w10Lf8aXcOK7up5in"
+    },
+    {
+      "name": "Bather",
+      "extensions": ["1909"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Bather&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMCwuryiq0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWNmcEksyUosAZr7G4kUAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBJ",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKlbtyfxrH9dY0Z2q1XyFbRUd0ZLzBJ4oC9XMKIZnoinsn5urD"
+    },
+    {
+      "name": "War and Peace",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=War+and+Peace&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyKjAvN6nSUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuUNTyxSSMxLUQhITUxOBQBRE2CMTQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBL",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN_W_EJ4Yizec7F6aS_kM71dQjVLbhu5i7GU9vi1WhmUGW_KUN"
+    },
+    {
+      "name": "On the Beach",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=On+the+Beach&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyLEnKLizWUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuXxz1MoyUhVcEpNTM4AAMbnWIJMAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbJfgnUIV7Ny4awo_IslfZzJTvALlor6jgyPhDgSyRSFvsysD"
+    },
+    {
+      "name": "The serenade",
+      "extensions": ["1942"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=The+serenade&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyqLQwKanUUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuUJyUhVKE4tSs1LTEkFAJkcrgpMAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBP",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ypB_OXmyj8LnMRvOEJsyeDGF8CL6LHXsjAToX_b8dvgrCVST"
+    },
+    {
+      "name": "Woman with book",
+      "extensions": ["1932"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Woman+with+book&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1U_XNzRMNi5JNy6vMNRSyk620i_LLC5NzIlPLCpBYmYWl1iV5xdlFy9i5Q_Pz03MUyjPLMlQSMrPzwYAyjM5BlEAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBR",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhmMo50Q0GDDOpXP9oqYqtJ8AemZ3lrx_xXi9hw8f91f9yDJyT"
+    },
+    {
+      "name": "Portrait of Ambroise Vollard",
+      "extensions": ["1910"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Portrait+of+Ambroise+Vollard&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyqoovqIzXUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYpUJyC8qKUrMLFHIT1NwzE0qys8sTlUIy8_JSSxKAQBpwAhuXAAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Clp9PtpSl-LJgshboXPGoW8l-5gx-QjHLQZ-YNhQwfyx-vu"
+    },
+    {
+      "name": "Jacqueline",
+      "extensions": ["1961"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Jacqueline+(painting)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArGMCooqk1O0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWEW9EpMLS1NzMvNSFTQKEjPzSjLz0jUBqNuyblQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBV",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRU39-Q6TW3DgzNJpnKghKZDIEcDd49StP2vrJkq7YlE6P_TkQ"
+    },
+    {
+      "name": "Tête de Femme",
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=T%C3%AAte+de+Femme&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyMrZITq7SUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYuULObyqJFUhJVXBLTU3NxUARv8x204AAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBX",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbOQ7Ic4G9i3qLTpsPC80RQ4ctl52HFKaNA6CthiqeNcPigSUG"
+    },
+    {
+      "name": "Still life (The dessert)",
+      "extensions": ["1901"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Still+life+(The+dessert)&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQyNi_LS4_XUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYpUILsnMyVHIyUxLVdAIyUhVSEktLk4tKtEEAA_tAmxYAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBZ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ248LO5IdMOFpipW5UerH5xCHO3nhvnMdtVdX6Sh9ctwKpXbMU"
+    },
+    {
+      "name": "Minotauromachy",
+      "extensions": ["1935"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Minotauromachy&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fiArFMzHOKivK0lLKTrfTLMotLE3PiE4tKkJiZxSVW5flF2cWLWPl8M_PySxJLi_JzE5MzKgGuASW-TQAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBb",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV4t4otcQLqFYTD8zaPvzj6ovc0xLR3cVRUQnIlrAtzgO8K2Qv"
+    },
+    {
+      "name": "Woman dressed in blue",
+      "extensions": ["1901"],
+      "link": "https://www.google.com/search?sca_esv=d856a50ff87a9623&cs=0&q=Woman+dressed+in+blue&stick=H4sIAAAAAAAAAONgFuLQz9U3MDOIN1fi1k_XNzQytshNqijRUspOttIvyywuTcyJTywqQWJmFpdYlecXZRcvYhUNz89NzFNIKUotLk5NUcjMU0jKKU0FAO8ptotVAAAA&sa=X&ved=2ahUKEwjfl83q8oSMAxV1r5UCHQSnPf0Qtq8DegQIBhBd",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIW46paqJmCfxH5eR609tgZ1emO04GprcQCma-z6Hma49sVJG"
+    }
+  ]
+}
